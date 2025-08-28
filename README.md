@@ -10,7 +10,8 @@ The site highlights the school’s mission, values, and programs with a clean, s
 - ⚡ **Next.js + TypeScript** for performance, scalability, and maintainability  
 - 📝 **Pages included**:
   - **Home** – welcoming landing page with highlights  
-  - **About** – school history, mission, and values  
+  - **About** – school history, mission, and values
+  - **Projects** - projects undertaken by the school
   - **Contact** – contact details and form for inquiries  
 
 ## 🚀 Tech Stack
